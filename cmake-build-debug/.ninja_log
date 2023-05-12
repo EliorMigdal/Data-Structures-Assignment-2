@@ -1,0 +1,13 @@
+# ninja log v5
+229	397	1672754747583406532	CMakeFiles/Data_Structures_Assignment_2.dir/Node.cpp.o	9a0f9fd2bf327c1
+2	246	1673198637291419157	CMakeFiles/Data_Structures_Assignment_2.dir/Roads.cpp.o	aa8b2add43d1727c
+2	235	1673198637279649614	CMakeFiles/Data_Structures_Assignment_2.dir/List.cpp.o	e6cfff817d1ae3ff
+267	295	1673198637342083157	Data_Structures_Assignment_2	e6c5d60fd873fbda
+1	226	1673198637269245842	CMakeFiles/Data_Structures_Assignment_2.dir/main.cpp.o	919d717d385553cc
+2	267	1673198637311907996	CMakeFiles/Data_Structures_Assignment_2.dir/Road.cpp.o	abae7ff102b75660
+2	244	1673198637288696445	CMakeFiles/Data_Structures_Assignment_2.dir/MaxHeap.cpp.o	cb610c6703f91cd
+3	252	1673198637297440573	CMakeFiles/Data_Structures_Assignment_2.dir/General.cpp.o	6e13b24af0f4409d
+0	44	1673198978967227753	build.ninja	b81587a077e653f2
+2	200	1673272013110609136	CMakeFiles/Data_Structures_Assignment_2.dir/General.cpp.o	6e13b24af0f4409d
+2	200	1673272013111414469	CMakeFiles/Data_Structures_Assignment_2.dir/MaxHeap.cpp.o	cb610c6703f91cd
+200	232	1673272013145164279	Data_Structures_Assignment_2	e6c5d60fd873fbda
